@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/delete.png</file>
+        <file>images/edit.png</file>
+        <file>images/logo.png</file>
+        <file>images/achats.svg</file>
+        <file>images/adhesions.svg</file>
+        <file>images/adoptions.svg</file>
+        <file>images/checkbox_checked.png</file>
+        <file>images/comptes.svg</file>
+        <file>images/donations.svg</file>
+        <file>images/manifestations.svg</file>
+        <file>images/soins.svg</file>
+        <file>images/sterilisations.svg</file>
+        <file>images/subventions.svg</file>
+        <file>images/ventes.svg</file>
+        <file>styles.qss</file>
+        <file>fonts/PermanentMarker-Regular.ttf</file>
+        <file>bdd/bdd.sql</file>
+        <file>bdd/bdd.xmi</file>
+        <file>bdd/class diagram.png</file>
+        <file>gpl-3.0.txt</file>
+    </qresource>
+</RCC>

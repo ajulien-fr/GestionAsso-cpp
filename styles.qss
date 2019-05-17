@@ -1,0 +1,61 @@
+QMenuBar::item:pressed {
+  background: #00f4ff;
+  color: #000000;
+}
+
+QLabel#title {
+  color: #00f4ff;
+  font-size: 34px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+QLineEdit:focus {
+  border: 1px solid #00f4ff;
+}
+
+QTextEdit:focus {
+  border: 1px solid #00f4ff;
+}
+
+QPushButton:focus {
+  border: 1px solid #00f4ff;
+}
+
+QPushButton:pressed {
+  background: #00f4ff;
+  color: #000000;
+}
+
+QComboBox:focus {
+  border: 1px solid #00f4ff;
+}
+
+QComboBox QAbstractItemView {
+  selection-background-color: #00f4ff;
+  selection-color: #000000;
+}
+
+QCheckBox::indicator {
+  width: 13px;
+  height: 13px;
+}
+
+QCheckBox::indicator:checked {
+  image: url(:/images/checkbox_checked.png);
+}
+
+QLabel#bilan-title {
+  color: #00f4ff;
+  font-size: 22px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+QLabel#bilan-item-value {
+  color: #00f4ff;
+  font-size: 18px;
+}
+
+p {
+  color: #00f4ff;
+  font-size: 18px;
+}
