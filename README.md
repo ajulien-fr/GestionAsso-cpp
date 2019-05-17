@@ -1,0 +1,1 @@
+Application écrite en C++ pouvant faciliter la gestion d'une association.
